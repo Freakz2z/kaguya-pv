@@ -1,0 +1,33 @@
+{
+  "source_commit": "05ca1b979b71da70865e2c8538d817192c6bc296",
+  "duration_seconds": 62.2,
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "runtime_files": {
+    "index.html": "7b2545e7515d7ecda7c0472569bfa5f4b2864700c52bc72b776b2c6c83fdd003",
+    "compositions/01-远く・离别的约定.html": "d1e991e243aff173e054d04f5cdc051e1f45dd8f7f30c46f57a57c78db962a5b",
+    "compositions/02-君の声・彩叶的声音.html": "bc2398c36a30563d69d59b74ab5add6c4e2d7518d6bae7545f8eb6e1524f2240",
+    "compositions/03-ひとりじゃない・文字接力.html": "a6d45175e1135561037619430afd6d02fbda753f1d70c2faf67a17bfdf15fb89",
+    "compositions/04-夜を越えて・八千代等待.html": "b46bb5d605a7e8188c8ca781779465f7472fa0388fb5ee577f14808e48f7e746",
+    "compositions/05-また会える・双人回忆.html": "ca68a25e2a3291dee4ff5259d6d516c9bce1cc89ec8f2a86eea38c143a4955d6",
+    "compositions/06A-烟花升空・余辉呼唤.html": "55e7df53f371b2b801acd39a4d2ef1e7401df265b68eff3193b125f06ff93e15",
+    "compositions/06B-彩叶歌唱・この声が.html": "8a3e14534a340edf4ae69efe7a36c9aa5bcd33a202ef0b92971fa33d60d81d53",
+    "compositions/07-聞こえた・辉夜回应.html": "67a925f439aae877d2dd082da5e7643c62cf4dd26be0a21acd637ad0e5845a11",
+    "compositions/08-また会えた・踮脚碰指.html": "925a82a5f67b1f25b95de5aec87c1d4a49629d4a23c649fa17592f5336a1863e",
+    "compositions/09-声音接力①・彩叶低声唱歌.html": "c2cb659e8ff739e01529377849145e85224ac7bc59330481eebe86b57467cab6",
+    "compositions/10-声音接力②・文字化为音符.html": "07a22a7b1560d2c54c0875014019b2aa75444b20c50bae7c5f5e8165c1f7ba01",
+    "compositions/11–14-声音远行・地球到月球一镜到底.html": "6635c5580cde76b5595f97b5dee329f6926fbeaec54c5d66b5b9766a82ac5ea5",
+    "compositions/15-声音回应・辉夜听见了.html": "619cb6b50938ae1e9e4af316b7956b3f9e5d9b333cae26c3bc9b69017b2c3490",
+    "compositions/16-全片转场.html": "42b43d8d45470d031248d10f179792daa75d4da738da5cc02ba578e140f6bb67",
+    "compositions/17-中文歌词字幕.html": "42b7e6049f36bf74c66ac1add97b93a7fe4557feb3555a002ec3c739f12183a6",
+    "compositions/18-指先の約束・碰指与回应.html": "edd11e6aa81eddb605ece6257afa47224ddc428f20439d65d07dd6fee67079ab",
+    "compositions/19-また会える・三人舞台.html": "8df5fb34d9337d0a3aaaadb82671fbecde35d58c20e16d587836287e0eb4dce9",
+    "compositions/20-超かぐや姫！・片名与音乐署名.html": "d17f4ce1b708b38d676ce320f7723d96b95c6dfa50caefa2b4c811de5c0d0fd6"
+  },
+  "public_profile": "silent demo, geometric placeholders, sample captions, system font fallback",
+  "remote_created": false,
+  "published": false
+}

@@ -1,0 +1,384 @@
+{
+  "method": "45-180 Hz and 180-1400 Hz positive energy transients, 360ms minimum interval; mapped across 2.6s pause; quiet opening retains existing accent markers",
+  "beats": [
+    {
+      "frame": 53,
+      "time": 1.7667,
+      "strength": 1.0,
+      "basis": "existing opening musical accent"
+    },
+    {
+      "frame": 89,
+      "time": 2.9667,
+      "strength": 1.0,
+      "basis": "existing opening musical accent"
+    },
+    {
+      "frame": 125,
+      "time": 4.1667,
+      "strength": 1.0,
+      "basis": "existing opening musical accent"
+    },
+    {
+      "frame": 178,
+      "time": 5.9333,
+      "strength": 1.0,
+      "basis": "existing opening musical accent"
+    },
+    {
+      "frame": 268,
+      "time": 8.9333,
+      "strength": 1.0,
+      "basis": "existing opening musical accent"
+    },
+    {
+      "frame": 339,
+      "time": 11.3,
+      "strength": 1.0,
+      "basis": "existing opening musical accent"
+    },
+    {
+      "frame": 375,
+      "time": 12.5,
+      "strength": 1.0,
+      "basis": "existing opening musical accent"
+    },
+    {
+      "frame": 481,
+      "time": 16.0333,
+      "strength": 1.0,
+      "basis": "existing opening musical accent"
+    },
+    {
+      "frame": 511,
+      "time": 17.0333,
+      "strength": 1.0,
+      "basis": "existing opening musical accent"
+    },
+    {
+      "frame": 535,
+      "time": 17.8195,
+      "strength": 1.6002
+    },
+    {
+      "frame": 548,
+      "time": 18.2635,
+      "strength": 1.9314
+    },
+    {
+      "frame": 561,
+      "time": 18.7125,
+      "strength": 1.5242
+    },
+    {
+      "frame": 720,
+      "time": 23.9914,
+      "strength": 2.7286
+    },
+    {
+      "frame": 731,
+      "time": 24.3805,
+      "strength": 0.9694
+    },
+    {
+      "frame": 747,
+      "time": 24.8893,
+      "strength": 2.4967
+    },
+    {
+      "frame": 760,
+      "time": 25.3383,
+      "strength": 2.0247
+    },
+    {
+      "frame": 791,
+      "time": 26.376,
+      "strength": 2.2364
+    },
+    {
+      "frame": 818,
+      "time": 27.2639,
+      "strength": 2.6577
+    },
+    {
+      "frame": 840,
+      "time": 28.0073,
+      "strength": 3.0039
+    },
+    {
+      "frame": 858,
+      "time": 28.5959,
+      "strength": 2.6262
+    },
+    {
+      "frame": 876,
+      "time": 29.1896,
+      "strength": 1.6125
+    },
+    {
+      "frame": 889,
+      "time": 29.6385,
+      "strength": 2.5641
+    },
+    {
+      "frame": 902,
+      "time": 30.0825,
+      "strength": 2.6299
+    },
+    {
+      "frame": 934,
+      "time": 31.1202,
+      "strength": 2.4751
+    },
+    {
+      "frame": 961,
+      "time": 32.0181,
+      "strength": 2.4296
+    },
+    {
+      "frame": 983,
+      "time": 32.7615,
+      "strength": 2.0129
+    },
+    {
+      "frame": 1001,
+      "time": 33.3551,
+      "strength": 2.2048
+    },
+    {
+      "frame": 1018,
+      "time": 33.9438,
+      "strength": 2.1633
+    },
+    {
+      "frame": 1032,
+      "time": 34.3927,
+      "strength": 1.1141
+    },
+    {
+      "frame": 1076,
+      "time": 35.8794,
+      "strength": 1.9294
+    },
+    {
+      "frame": 1103,
+      "time": 36.7673,
+      "strength": 2.4531
+    },
+    {
+      "frame": 1125,
+      "time": 37.5107,
+      "strength": 3.456
+    },
+    {
+      "frame": 1143,
+      "time": 38.0993,
+      "strength": 2.2958
+    },
+    {
+      "frame": 1155,
+      "time": 38.5034,
+      "strength": 0.8094
+    },
+    {
+      "frame": 1174,
+      "time": 39.1469,
+      "strength": 2.3442
+    },
+    {
+      "frame": 1192,
+      "time": 39.7256,
+      "strength": 0.6597
+    },
+    {
+      "frame": 1219,
+      "time": 40.6286,
+      "strength": 1.742
+    },
+    {
+      "frame": 1246,
+      "time": 41.5215,
+      "strength": 2.2175
+    },
+    {
+      "frame": 1268,
+      "time": 42.2698,
+      "strength": 2.335
+    },
+    {
+      "frame": 1286,
+      "time": 42.8585,
+      "strength": 2.8294
+    },
+    {
+      "frame": 1308,
+      "time": 43.6018,
+      "strength": 2.5578
+    },
+    {
+      "frame": 1326,
+      "time": 44.1955,
+      "strength": 2.4414
+    },
+    {
+      "frame": 1344,
+      "time": 44.7891,
+      "strength": 2.2473
+    },
+    {
+      "frame": 1361,
+      "time": 45.3778,
+      "strength": 1.9821
+    },
+    {
+      "frame": 1379,
+      "time": 45.9764,
+      "strength": 1.7848
+    },
+    {
+      "frame": 1397,
+      "time": 46.5651,
+      "strength": 2.4199
+    },
+    {
+      "frame": 1408,
+      "time": 46.9342,
+      "strength": 0.7727
+    },
+    {
+      "frame": 1419,
+      "time": 47.2934,
+      "strength": 1.5368
+    },
+    {
+      "frame": 1433,
+      "time": 47.7673,
+      "strength": 1.451
+    },
+    {
+      "frame": 1451,
+      "time": 48.356,
+      "strength": 2.1062
+    },
+    {
+      "frame": 1468,
+      "time": 48.9497,
+      "strength": 2.2449
+    },
+    {
+      "frame": 1486,
+      "time": 49.5433,
+      "strength": 1.7853
+    },
+    {
+      "frame": 1504,
+      "time": 50.142,
+      "strength": 1.5648
+    },
+    {
+      "frame": 1522,
+      "time": 50.7306,
+      "strength": 2.0011
+    },
+    {
+      "frame": 1540,
+      "time": 51.3193,
+      "strength": 2.1673
+    },
+    {
+      "frame": 1558,
+      "time": 51.9179,
+      "strength": 1.8893
+    },
+    {
+      "frame": 1575,
+      "time": 52.5166,
+      "strength": 1.7186
+    },
+    {
+      "frame": 1593,
+      "time": 53.1052,
+      "strength": 2.4213
+    },
+    {
+      "frame": 1611,
+      "time": 53.6989,
+      "strength": 2.2998
+    },
+    {
+      "frame": 1629,
+      "time": 54.2925,
+      "strength": 2.2673
+    },
+    {
+      "frame": 1647,
+      "time": 54.8912,
+      "strength": 2.3844
+    },
+    {
+      "frame": 1665,
+      "time": 55.4848,
+      "strength": 2.11
+    },
+    {
+      "frame": 1682,
+      "time": 56.0785,
+      "strength": 2.3503
+    },
+    {
+      "frame": 1700,
+      "time": 56.6721,
+      "strength": 1.6107
+    },
+    {
+      "frame": 1718,
+      "time": 57.2658,
+      "strength": 1.6188
+    },
+    {
+      "frame": 1736,
+      "time": 57.8594,
+      "strength": 2.1303
+    },
+    {
+      "frame": 1754,
+      "time": 58.4531,
+      "strength": 2.877
+    },
+    {
+      "frame": 1764,
+      "time": 58.8122,
+      "strength": 1.0292
+    },
+    {
+      "frame": 1775,
+      "time": 59.1764,
+      "strength": 1.4939
+    },
+    {
+      "frame": 1789,
+      "time": 59.6454,
+      "strength": 1.1472
+    },
+    {
+      "frame": 1807,
+      "time": 60.239,
+      "strength": 1.6507
+    },
+    {
+      "frame": 1825,
+      "time": 60.8277,
+      "strength": 2.4326
+    },
+    {
+      "frame": 1838,
+      "time": 61.2766,
+      "strength": 2.4498
+    },
+    {
+      "frame": 1852,
+      "time": 61.7206,
+      "strength": 2.8159
+    }
+  ]
+}

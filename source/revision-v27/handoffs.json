@@ -1,0 +1,65 @@
+[
+  {
+    "outgoing": "append-fireworks",
+    "incoming": "append-voice",
+    "startFrame": 716,
+    "finishFrame": 746,
+    "mode": "dissolve"
+  },
+  {
+    "outgoing": "append-voice",
+    "incoming": "append-answer",
+    "startFrame": 856.0,
+    "finishFrame": 878.0,
+    "mode": "paper-right"
+  },
+  {
+    "outgoing": "append-answer",
+    "incoming": "append-together",
+    "startFrame": 915.0,
+    "finishFrame": 937.0,
+    "mode": "iris"
+  },
+  {
+    "outgoing": "append-together",
+    "incoming": "append-relay-distance",
+    "startFrame": 1028,
+    "finishFrame": 1048,
+    "mode": "curtain"
+  },
+  {
+    "outgoing": "append-relay-distance",
+    "incoming": "append-relay-panels",
+    "startFrame": 1093,
+    "finishFrame": 1109,
+    "mode": "dissolve"
+  },
+  {
+    "outgoing": "append-relay-journey",
+    "incoming": "append-relay-reply",
+    "startFrame": 1389,
+    "finishFrame": 1415,
+    "mode": "moon-response-layered-dissolve"
+  },
+  {
+    "outgoing": "append-relay-reply",
+    "incoming": "append-finale-answer",
+    "startFrame": 1487,
+    "finishFrame": 1509,
+    "mode": "diagonal"
+  },
+  {
+    "outgoing": "append-finale-answer",
+    "incoming": "append-finale-reunion",
+    "startFrame": 1635,
+    "finishFrame": 1666,
+    "mode": "three-colour-shutters"
+  },
+  {
+    "outgoing": "append-finale-reunion",
+    "incoming": "append-finale-title",
+    "startFrame": 1734,
+    "finishFrame": 1758,
+    "mode": "dissolve"
+  }
+]

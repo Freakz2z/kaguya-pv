@@ -1,0 +1,28 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"></head><body><template><style>@font-face{font-family:Heavy;src:local('Arial')}@font-face{font-family:Mincho;src:local('Arial')}@font-face{font-family:Hand;src:local('Arial')}*{box-sizing:border-box}.layer{position:absolute;inset:0;width:100%;height:100%}.type{position:absolute;display:block;white-space:nowrap;line-height:1.16;font-family:Heavy;color:#322438;transform-origin:center;opacity:0}.art{position:absolute;display:block;height:auto}.shape{position:absolute;display:block}.dotfield{background-image:radial-gradient(#9d668b 2px,transparent 2.5px);background-size:16px 16px;opacity:.2}.stroke-text{-webkit-text-stroke:3px #ac2d53;color:transparent}.sticker{paint-order:stroke fill;-webkit-text-stroke:12px #f5efe7;text-shadow:5px 7px 0 #322438}.paperframe{border:7px solid #322438;background:#f5efe7}.frameinner{position:absolute;inset:15px;border:2px solid #322438;pointer-events:none}@font-face{font-family:AppendHeavy;src:local('Arial')}@font-face{font-family:AppendMincho;src:local('Arial')}#append-fireworks-root{position:absolute;inset:0;width:100%;height:100%;overflow:hidden;}#append-fireworks-fireworks{inset:0;width:100%;height:100%;}</style><div id="append-fireworks-root" data-composition-id="append-fireworks" data-width="1920" data-height="1080" data-duration="5.233333333333333"><div id="append-fireworks-bg" class="layer" style="background:#f5efe7"></div><div id="append-fireworks-background-layer" class="clip layer" data-start="0" data-duration="5.233333333333333" data-track-index="0" data-label="背景" style="z-index:1"><div class="layer"></div></div><div id="append-fireworks-backtext-layer" class="clip layer" data-start="0" data-duration="5.233333333333333" data-track-index="1" data-label="后景文字" style="z-index:2"><div class="layer"></div></div><div id="append-fireworks-character-layer" class="clip layer" data-start="0" data-duration="5.233333333333333" data-track-index="2" data-label="人物" style="z-index:3"><div class="layer"></div></div><div id="append-fireworks-foreground-layer" class="clip layer" data-start="0" data-duration="5.233333333333333" data-track-index="3" data-label="前景特效" style="z-index:4"><div class="layer"><div id="append-fireworks-fireworks" class="shape" data-layout-ignore><canvas id="append-fireworks-canvas" width="1920" height="1080" style="width:100%;height:100%" aria-hidden="true"></canvas></div></div></div><div id="append-fireworks-text-layer" class="clip layer" data-start="0" data-duration="5.233333333333333" data-track-index="4" data-label="主文字" style="z-index:5"><div class="layer"></div></div><div id="append-fireworks-transition-layer" class="clip layer" data-start="0" data-duration="5.233333333333333" data-track-index="5" data-label="转场" style="z-index:6"><div class="layer"></div></div></div><script>(async()=>{await document.fonts.load('310px AppendMincho');const tl=gsap.timeline({paused:true});// Independent demo implementation by Freakz2z; MIT. Pure time sampling, no external template.
+const demoFireCanvas=document.getElementById('append-fireworks-canvas');
+const demoFireCtx=demoFireCanvas.getContext('2d');
+const demoFireClock={t:0};
+function demoFireDraw(t){
+ const c=demoFireCtx,w=demoFireCanvas.width,h=demoFireCanvas.height;
+ c.clearRect(0,0,w,h);c.fillStyle='#15172d';c.fillRect(0,0,w,h);
+ const launches=[{x:.22,y:.25,t:.18,hue:330},{x:.72,y:.22,t:.47,hue:42},{x:.48,y:.15,t:.78,hue:190},{x:.86,y:.36,t:.98,hue:275},{x:.13,y:.4,t:1.18,hue:35}];
+ for(const rocket of launches){
+  const age=t-rocket.t;if(age<0)continue;
+  const rise=.72,bx=rocket.x*w,by=rocket.y*h;
+  if(age<rise){
+   const p=age/rise,y=h+(by-h)*(1-Math.pow(1-p,2));
+   for(let i=0;i<14;i++){c.fillStyle=`rgba(255,222,171,${(1-i/14)*.8})`;c.beginPath();c.arc(bx,y+i*8,Math.max(.7,3-i*.16),0,Math.PI*2);c.fill();}
+  }else{
+   const u=age-rise;if(u>2.1)continue;
+   for(let i=0;i<72;i++){
+    const a=i*Math.PI*2/72,speed=(130+(i%5)*12),x=bx+Math.cos(a)*speed*u,y=by+Math.sin(a)*speed*u+64*u*u;
+    const fade=Math.pow(Math.max(0,1-u/2.1),1.4);
+    c.strokeStyle=`hsla(${rocket.hue+i%9},85%,76%,${fade})`;c.lineWidth=2.2;c.beginPath();c.moveTo(x-Math.cos(a)*14,y-Math.sin(a)*14-6*u);c.lineTo(x,y);c.stroke();
+   }
+  }
+ }
+ if(t>3.2){const a=Math.min(1,(t-3.2)/.18);c.save();c.globalAlpha=a;c.fillStyle='#fff1da';c.textAlign='center';c.textBaseline='middle';c.font='310px serif';c.fillText('ねえ',w/2,h*.58);c.restore();}
+}
+tl.fromTo(demoFireClock,{t:0},{t:5.2333333333,duration:5.2333333333,ease:'none',onUpdate:()=>demoFireDraw(demoFireClock.t),immediateRender:true},0);
+demoFireDraw(0);
+window.__timelines=window.__timelines||{};window.__timelines['append-fireworks']=tl;})();</script></template></body></html>

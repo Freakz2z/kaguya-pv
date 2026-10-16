@@ -1,0 +1,533 @@
+{
+  "method": "positive log spectral flux, 10 ms hop; candidates for selected typography accents, not phoneme or drum isolation",
+  "onsets": [
+    {
+      "source": 189.8759,
+      "preview": 23.3759,
+      "frame": 701,
+      "strength": 231.427
+    },
+    {
+      "source": 190.0755,
+      "preview": 23.5755,
+      "frame": 707,
+      "strength": 82.564
+    },
+    {
+      "source": 190.4546,
+      "preview": 23.9546,
+      "frame": 719,
+      "strength": 182.852
+    },
+    {
+      "source": 190.6941,
+      "preview": 24.1941,
+      "frame": 726,
+      "strength": 94.055
+    },
+    {
+      "source": 191.0632,
+      "preview": 24.5632,
+      "frame": 737,
+      "strength": 156.312
+    },
+    {
+      "source": 191.3426,
+      "preview": 24.8426,
+      "frame": 745,
+      "strength": 198.48
+    },
+    {
+      "source": 191.6619,
+      "preview": 25.1619,
+      "frame": 755,
+      "strength": 159.85
+    },
+    {
+      "source": 191.9512,
+      "preview": 25.4512,
+      "frame": 764,
+      "strength": 153.908
+    },
+    {
+      "source": 192.2405,
+      "preview": 25.7405,
+      "frame": 772,
+      "strength": 250.285
+    },
+    {
+      "source": 192.4501,
+      "preview": 25.9501,
+      "frame": 779,
+      "strength": 134.427
+    },
+    {
+      "source": 192.8392,
+      "preview": 26.3392,
+      "frame": 790,
+      "strength": 135.527
+    },
+    {
+      "source": 193.1485,
+      "preview": 26.6485,
+      "frame": 799,
+      "strength": 109.69
+    },
+    {
+      "source": 193.4378,
+      "preview": 26.9378,
+      "frame": 808,
+      "strength": 160.261
+    },
+    {
+      "source": 193.6972,
+      "preview": 27.1972,
+      "frame": 816,
+      "strength": 187.217
+    },
+    {
+      "source": 194.0265,
+      "preview": 27.5265,
+      "frame": 826,
+      "strength": 165.754
+    },
+    {
+      "source": 194.3158,
+      "preview": 27.8158,
+      "frame": 834,
+      "strength": 174.951
+    },
+    {
+      "source": 194.6151,
+      "preview": 28.1151,
+      "frame": 843,
+      "strength": 227.403
+    },
+    {
+      "source": 194.8446,
+      "preview": 28.3446,
+      "frame": 850,
+      "strength": 65.0
+    },
+    {
+      "source": 195.0641,
+      "preview": 28.5641,
+      "frame": 857,
+      "strength": 194.008
+    },
+    {
+      "source": 195.5131,
+      "preview": 29.0131,
+      "frame": 870,
+      "strength": 180.873
+    },
+    {
+      "source": 195.8124,
+      "preview": 29.3124,
+      "frame": 879,
+      "strength": 244.339
+    },
+    {
+      "source": 196.1018,
+      "preview": 29.6018,
+      "frame": 888,
+      "strength": 250.61
+    },
+    {
+      "source": 196.3512,
+      "preview": 29.8512,
+      "frame": 896,
+      "strength": 87.866
+    },
+    {
+      "source": 196.5507,
+      "preview": 30.0507,
+      "frame": 902,
+      "strength": 141.981
+    },
+    {
+      "source": 196.8002,
+      "preview": 30.3002,
+      "frame": 909,
+      "strength": 71.722
+    },
+    {
+      "source": 196.9997,
+      "preview": 30.4997,
+      "frame": 915,
+      "strength": 159.556
+    },
+    {
+      "source": 197.2691,
+      "preview": 30.7691,
+      "frame": 923,
+      "strength": 238.124
+    },
+    {
+      "source": 197.5884,
+      "preview": 31.0884,
+      "frame": 933,
+      "strength": 141.216
+    },
+    {
+      "source": 197.8977,
+      "preview": 31.3977,
+      "frame": 942,
+      "strength": 130.353
+    },
+    {
+      "source": 198.1771,
+      "preview": 31.6771,
+      "frame": 950,
+      "strength": 150.925
+    },
+    {
+      "source": 198.4664,
+      "preview": 31.9664,
+      "frame": 959,
+      "strength": 278.85
+    },
+    {
+      "source": 198.7857,
+      "preview": 32.2857,
+      "frame": 969,
+      "strength": 153.678
+    },
+    {
+      "source": 199.065,
+      "preview": 32.565,
+      "frame": 977,
+      "strength": 147.834
+    },
+    {
+      "source": 199.3743,
+      "preview": 32.8743,
+      "frame": 986,
+      "strength": 196.647
+    },
+    {
+      "source": 199.6337,
+      "preview": 33.1337,
+      "frame": 994,
+      "strength": 115.833
+    },
+    {
+      "source": 199.963,
+      "preview": 33.463,
+      "frame": 1004,
+      "strength": 133.832
+    },
+    {
+      "source": 200.2623,
+      "preview": 33.7623,
+      "frame": 1013,
+      "strength": 91.638
+    },
+    {
+      "source": 200.5616,
+      "preview": 34.0616,
+      "frame": 1022,
+      "strength": 134.881
+    },
+    {
+      "source": 200.851,
+      "preview": 34.351,
+      "frame": 1031,
+      "strength": 225.813
+    },
+    {
+      "source": 201.1503,
+      "preview": 34.6503,
+      "frame": 1040,
+      "strength": 177.868
+    },
+    {
+      "source": 201.4396,
+      "preview": 34.9396,
+      "frame": 1048,
+      "strength": 178.042
+    },
+    {
+      "source": 201.739,
+      "preview": 35.239,
+      "frame": 1057,
+      "strength": 246.108
+    },
+    {
+      "source": 202.0582,
+      "preview": 35.5582,
+      "frame": 1067,
+      "strength": 131.743
+    },
+    {
+      "source": 202.3376,
+      "preview": 35.8376,
+      "frame": 1075,
+      "strength": 131.591
+    },
+    {
+      "source": 202.6369,
+      "preview": 36.1369,
+      "frame": 1084,
+      "strength": 110.271
+    },
+    {
+      "source": 202.9362,
+      "preview": 36.4362,
+      "frame": 1093,
+      "strength": 165.451
+    },
+    {
+      "source": 203.2156,
+      "preview": 36.7156,
+      "frame": 1101,
+      "strength": 207.87
+    },
+    {
+      "source": 203.5349,
+      "preview": 37.0349,
+      "frame": 1111,
+      "strength": 123.035
+    },
+    {
+      "source": 203.8242,
+      "preview": 37.3242,
+      "frame": 1120,
+      "strength": 138.177
+    },
+    {
+      "source": 204.1136,
+      "preview": 37.6136,
+      "frame": 1128,
+      "strength": 234.912
+    },
+    {
+      "source": 204.5725,
+      "preview": 38.0725,
+      "frame": 1142,
+      "strength": 180.809
+    },
+    {
+      "source": 205.0015,
+      "preview": 38.5015,
+      "frame": 1155,
+      "strength": 157.987
+    },
+    {
+      "source": 205.3108,
+      "preview": 38.8108,
+      "frame": 1164,
+      "strength": 227.319
+    },
+    {
+      "source": 205.6002,
+      "preview": 39.1002,
+      "frame": 1173,
+      "strength": 279.679
+    },
+    {
+      "source": 205.9095,
+      "preview": 39.4095,
+      "frame": 1182,
+      "strength": 113.036
+    },
+    {
+      "source": 206.1888,
+      "preview": 39.6888,
+      "frame": 1191,
+      "strength": 135.224
+    },
+    {
+      "source": 206.4981,
+      "preview": 39.9981,
+      "frame": 1200,
+      "strength": 160.8
+    },
+    {
+      "source": 206.7875,
+      "preview": 40.2875,
+      "frame": 1209,
+      "strength": 143.226
+    },
+    {
+      "source": 207.0968,
+      "preview": 40.5968,
+      "frame": 1218,
+      "strength": 152.301
+    },
+    {
+      "source": 207.3562,
+      "preview": 40.8562,
+      "frame": 1226,
+      "strength": 76.061
+    },
+    {
+      "source": 207.5557,
+      "preview": 41.0557,
+      "frame": 1232,
+      "strength": 165.425
+    },
+    {
+      "source": 207.9648,
+      "preview": 41.4648,
+      "frame": 1244,
+      "strength": 178.737
+    },
+    {
+      "source": 208.2342,
+      "preview": 41.7342,
+      "frame": 1252,
+      "strength": 90.524
+    },
+    {
+      "source": 208.4537,
+      "preview": 41.9537,
+      "frame": 1259,
+      "strength": 145.783
+    },
+    {
+      "source": 208.8727,
+      "preview": 42.3727,
+      "frame": 1271,
+      "strength": 170.936
+    },
+    {
+      "source": 209.3217,
+      "preview": 42.8217,
+      "frame": 1285,
+      "strength": 140.785
+    },
+    {
+      "source": 209.9303,
+      "preview": 43.4303,
+      "frame": 1303,
+      "strength": 140.842
+    },
+    {
+      "source": 210.1498,
+      "preview": 43.6498,
+      "frame": 1309,
+      "strength": 78.476
+    },
+    {
+      "source": 210.3494,
+      "preview": 43.8494,
+      "frame": 1315,
+      "strength": 167.375
+    },
+    {
+      "source": 210.6587,
+      "preview": 44.1587,
+      "frame": 1325,
+      "strength": 158.338
+    },
+    {
+      "source": 210.958,
+      "preview": 44.458,
+      "frame": 1334,
+      "strength": 114.903
+    },
+    {
+      "source": 211.2573,
+      "preview": 44.7573,
+      "frame": 1343,
+      "strength": 180.92
+    },
+    {
+      "source": 211.5167,
+      "preview": 45.0167,
+      "frame": 1351,
+      "strength": 158.642
+    },
+    {
+      "source": 211.846,
+      "preview": 45.346,
+      "frame": 1360,
+      "strength": 128.618
+    },
+    {
+      "source": 212.1553,
+      "preview": 45.6553,
+      "frame": 1370,
+      "strength": 121.457
+    },
+    {
+      "source": 212.4346,
+      "preview": 45.9346,
+      "frame": 1378,
+      "strength": 141.067
+    },
+    {
+      "source": 212.7439,
+      "preview": 46.2439,
+      "frame": 1387,
+      "strength": 154.679
+    },
+    {
+      "source": 213.0333,
+      "preview": 46.5333,
+      "frame": 1396,
+      "strength": 199.381
+    },
+    {
+      "source": 213.3426,
+      "preview": 46.8426,
+      "frame": 1405,
+      "strength": 111.772
+    },
+    {
+      "source": 213.6319,
+      "preview": 47.1319,
+      "frame": 1414,
+      "strength": 212.237
+    },
+    {
+      "source": 213.9312,
+      "preview": 47.4312,
+      "frame": 1423,
+      "strength": 128.28
+    },
+    {
+      "source": 214.2306,
+      "preview": 47.7306,
+      "frame": 1432,
+      "strength": 125.133
+    },
+    {
+      "source": 214.5299,
+      "preview": 48.0299,
+      "frame": 1441,
+      "strength": 109.372
+    },
+    {
+      "source": 214.8192,
+      "preview": 48.3192,
+      "frame": 1450,
+      "strength": 168.578
+    },
+    {
+      "source": 215.0587,
+      "preview": 48.5587,
+      "frame": 1457,
+      "strength": 133.211
+    },
+    {
+      "source": 215.4079,
+      "preview": 48.9079,
+      "frame": 1467,
+      "strength": 184.485
+    },
+    {
+      "source": 215.7072,
+      "preview": 49.2072,
+      "frame": 1476,
+      "strength": 132.832
+    },
+    {
+      "source": 215.9966,
+      "preview": 49.4966,
+      "frame": 1485,
+      "strength": 232.347
+    }
+  ]
+}

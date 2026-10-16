@@ -1,0 +1,191 @@
+[
+  {
+    "scene": "distance",
+    "element": "distance-far",
+    "frame": 53,
+    "time": 1.7666666666666666,
+    "peakScale": 1.08,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "distance",
+    "element": "distance-star",
+    "frame": 89,
+    "time": 2.966666666666667,
+    "peakScale": 1.07,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "voice",
+    "element": "voice-voice",
+    "frame": 125,
+    "time": 4.166666666666667,
+    "peakScale": 1.08,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "voice",
+    "element": "voice-notgone",
+    "frame": 178,
+    "time": 5.933333333333334,
+    "peakScale": 1.07,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "promise",
+    "element": "promise-one",
+    "frame": 268,
+    "time": 8.933333333333334,
+    "peakScale": 1.1,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "promise",
+    "element": "promise-ja",
+    "frame": 268,
+    "time": 8.933333333333334,
+    "peakScale": 1.08,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "promise",
+    "element": "promise-na",
+    "frame": 268,
+    "time": 8.933333333333334,
+    "peakScale": 1.08,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "promise",
+    "element": "promise-i",
+    "frame": 268,
+    "time": 8.933333333333334,
+    "peakScale": 1.08,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "night",
+    "element": "night-again",
+    "frame": 339,
+    "time": 11.3,
+    "peakScale": 1.07,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "night",
+    "element": "night-n1",
+    "frame": 375,
+    "time": 12.5,
+    "peakScale": 1.07,
+    "releaseFrames": 8,
+    "anchor": "existing detected musical accent"
+  },
+  {
+    "scene": "append-voice",
+    "element": "append-voice-voiceword",
+    "frame": 772,
+    "time": 25.733333333333334,
+    "peakScale": 1.09,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-voice",
+    "element": "append-voice-toyou",
+    "frame": 826,
+    "time": 27.533333333333335,
+    "peakScale": 1.08,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-answer",
+    "element": "append-answer-heard",
+    "frame": 888,
+    "time": 29.6,
+    "peakScale": 1.08,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-relay-distance",
+    "element": "append-relay-distance-reach-0",
+    "frame": 1075,
+    "time": 35.833333333333336,
+    "peakScale": 1.07,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-relay-panels",
+    "element": "append-relay-panels-glyph-0",
+    "frame": 1128,
+    "time": 37.6,
+    "peakScale": 1.09,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-relay-panels",
+    "element": "append-relay-panels-glyph-1",
+    "frame": 1128,
+    "time": 37.6,
+    "peakScale": 1.08,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-relay-panels",
+    "element": "append-relay-panels-glyph-2",
+    "frame": 1128,
+    "time": 37.6,
+    "peakScale": 1.09,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-relay-journey",
+    "element": "append-relay-journey-far-phrase",
+    "frame": 1232,
+    "time": 41.06666666666667,
+    "peakScale": 1.07,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-relay-journey",
+    "element": "append-relay-journey-toward-you",
+    "frame": 1303,
+    "time": 43.43333333333333,
+    "peakScale": 1.07,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-relay-journey",
+    "element": "append-relay-journey-arrived",
+    "frame": 1370,
+    "time": 45.666666666666664,
+    "peakScale": 1.07,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  },
+  {
+    "scene": "append-relay-journey",
+    "element": "append-relay-journey-arrival-star-0",
+    "frame": 1370,
+    "time": 45.666666666666664,
+    "peakScale": 1.1,
+    "releaseFrames": 8,
+    "anchor": "source spectral onset candidate"
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "scene": "distance",
+    "target": "distance-even",
+    "frame": 73,
+    "peakScale": 1.1,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "distance",
+    "target": "distance-memory",
+    "frame": 98,
+    "peakScale": 1.045,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "distance",
+    "target": "distance-remember-label",
+    "frame": 98,
+    "peakScale": 1.025,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "voice",
+    "target": "voice-accent",
+    "frame": 185,
+    "peakScale": 1.12,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "promise",
+    "target": "promise-one",
+    "frame": 285,
+    "peakScale": 1.07,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "night",
+    "target": "night-n2",
+    "frame": 391,
+    "peakScale": 1.07,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "return",
+    "target": "return-backpromise",
+    "frame": 511,
+    "peakScale": 1.055,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "return",
+    "target": "return-close-a",
+    "frame": 551,
+    "peakScale": 1.15,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "return",
+    "target": "return-close-b",
+    "frame": 570,
+    "peakScale": 1.13,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-voice",
+    "target": "append-voice-this",
+    "frame": 755,
+    "peakScale": 1.075,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-voice",
+    "target": "append-voice-voiceword",
+    "frame": 790,
+    "peakScale": 1.09,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-voice",
+    "target": "append-voice-reach",
+    "frame": 843,
+    "peakScale": 1.09,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-voice",
+    "target": "append-voice-bubble-0",
+    "frame": 772,
+    "peakScale": 1.12,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-voice",
+    "target": "append-voice-bubble-3",
+    "frame": 799,
+    "peakScale": 1.1,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-answer",
+    "target": "append-answer-truly",
+    "frame": 902,
+    "peakScale": 1.065,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-answer",
+    "target": "append-answer-bubble-0",
+    "frame": 888,
+    "peakScale": 1.12,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-answer",
+    "target": "append-answer-bubble-2",
+    "frame": 902,
+    "peakScale": 1.1,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-together",
+    "target": "append-together-again",
+    "frame": 950,
+    "peakScale": 1.065,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-together",
+    "target": "append-together-met",
+    "frame": 959,
+    "peakScale": 1.11,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-together",
+    "target": "append-together-ending",
+    "frame": 986,
+    "peakScale": 1.085,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-together",
+    "target": "append-together-ending-tab",
+    "frame": 986,
+    "peakScale": 1.04,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-together",
+    "target": "append-together-bubble-0",
+    "frame": 977,
+    "peakScale": 1.12,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-together",
+    "target": "append-together-bubble-1",
+    "frame": 994,
+    "peakScale": 1.1,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-distance",
+    "target": "append-relay-distance-voice",
+    "frame": 1048,
+    "peakScale": 1.045,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-distance",
+    "target": "append-relay-distance-reach-1",
+    "frame": 1057,
+    "peakScale": 1.08,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-distance",
+    "target": "append-relay-distance-reach-2",
+    "frame": 1075,
+    "peakScale": 1.1,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-distance",
+    "target": "append-relay-distance-small-star",
+    "frame": 1084,
+    "peakScale": 1.15,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-panels",
+    "target": "append-relay-panels-relay-a",
+    "frame": 1128,
+    "peakScale": 1.13,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-panels",
+    "target": "append-relay-panels-relay-b",
+    "frame": 1142,
+    "peakScale": 1.13,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-journey",
+    "target": "append-relay-journey-far-phrase",
+    "frame": 1244,
+    "peakScale": 1.055,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "append-relay-reply-reply-0",
+    "frame": 1414,
+    "peakScale": 1.08,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "append-relay-reply-reply-2",
+    "frame": 1432,
+    "peakScale": 1.07,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "append-relay-reply-reply-yo",
+    "frame": 1450,
+    "peakScale": 1.1,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "append-relay-reply-joy-0",
+    "frame": 1441,
+    "peakScale": 1.16,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "append-relay-reply-joy-1",
+    "frame": 1450,
+    "peakScale": 1.13,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "append-relay-reply-joy-2",
+    "frame": 1467,
+    "peakScale": 1.13,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "append-finale-answer-voice-key",
+    "frame": 1503,
+    "peakScale": 1.045,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "append-finale-answer-here-key",
+    "frame": 1540,
+    "peakScale": 1.055,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "append-finale-answer-answer-glyph-0",
+    "frame": 1610,
+    "peakScale": 1.1,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "append-finale-answer-answer-glyph-2",
+    "frame": 1610,
+    "peakScale": 1.07,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "append-finale-answer-answer-glyph-4",
+    "frame": 1627,
+    "peakScale": 1.075,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "append-finale-answer-answer-star-0",
+    "frame": 1610,
+    "peakScale": 1.15,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "append-finale-answer-answer-star-1",
+    "frame": 1627,
+    "peakScale": 1.14,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-reunion",
+    "target": "append-finale-reunion-concert-star-0",
+    "frame": 1684,
+    "peakScale": 1.12,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-reunion",
+    "target": "append-finale-reunion-concert-star-1",
+    "frame": 1702,
+    "peakScale": 1.14,
+    "releaseFrames": 7
+  },
+  {
+    "scene": "append-finale-reunion",
+    "target": "append-finale-reunion-promise",
+    "frame": 1702,
+    "peakScale": 1.06,
+    "releaseFrames": 7
+  }
+]

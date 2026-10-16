@@ -1,0 +1,450 @@
+[
+  {
+    "scene": "distance",
+    "target": "#distance-far",
+    "profile": "weight-slam",
+    "frame": 0,
+    "settledFrame": 5
+  },
+  {
+    "scene": "distance",
+    "target": "#distance-apart",
+    "profile": "rise-lock",
+    "frame": 31,
+    "settledFrame": 36
+  },
+  {
+    "scene": "distance",
+    "target": "#distance-even",
+    "profile": "fold-open",
+    "frame": 53,
+    "settledFrame": 60
+  },
+  {
+    "scene": "distance",
+    "target": "#distance-memory",
+    "profile": "shutter-pull",
+    "frame": 84,
+    "settledFrame": 89
+  },
+  {
+    "scene": "voice",
+    "target": "#voice-you",
+    "profile": "drop-lock",
+    "frame": 107,
+    "settledFrame": 114
+  },
+  {
+    "scene": "voice",
+    "target": "#voice-voice",
+    "profile": "weight-slam",
+    "frame": 121,
+    "settledFrame": 125
+  },
+  {
+    "scene": "voice",
+    "target": "#voice-topic",
+    "profile": "fold-open",
+    "frame": 142,
+    "settledFrame": 149
+  },
+  {
+    "scene": "voice",
+    "target": "#voice-notgone",
+    "profile": "shutter-pull",
+    "frame": 154,
+    "settledFrame": 160
+  },
+  {
+    "scene": "promise",
+    "target": "#promise-one",
+    "profile": "shutter-pull",
+    "frame": 196,
+    "settledFrame": 203
+  },
+  {
+    "scene": "promise",
+    "target": "#promise-ja",
+    "profile": "rise-lock",
+    "frame": 214,
+    "settledFrame": 221
+  },
+  {
+    "scene": "promise",
+    "target": "#promise-na",
+    "profile": "fold-open",
+    "frame": 232,
+    "settledFrame": 239
+  },
+  {
+    "scene": "promise",
+    "target": "#promise-i",
+    "profile": "weight-slam",
+    "frame": 250,
+    "settledFrame": 255
+  },
+  {
+    "scene": "night",
+    "target": "#night-again",
+    "profile": "weight-slam",
+    "frame": 298,
+    "settledFrame": 303
+  },
+  {
+    "scene": "night",
+    "target": "#night-nightword",
+    "profile": "shutter-pull",
+    "frame": 321,
+    "settledFrame": 328
+  },
+  {
+    "scene": "night",
+    "target": "#night-cross",
+    "profile": "rise-lock",
+    "frame": 351,
+    "settledFrame": 357
+  },
+  {
+    "scene": "return",
+    "target": "#return-mata",
+    "profile": "side-strike",
+    "frame": 412,
+    "settledFrame": 419
+  },
+  {
+    "scene": "return",
+    "target": "#return-meet",
+    "profile": "rise-lock",
+    "frame": 457,
+    "settledFrame": 463
+  },
+  {
+    "scene": "return",
+    "target": "#return-backpromise",
+    "profile": "shutter-pull",
+    "frame": 481,
+    "settledFrame": 488
+  },
+  {
+    "scene": "return",
+    "target": "#return-final-0",
+    "profile": "rise-lock",
+    "frame": 526,
+    "settledFrame": 530
+  },
+  {
+    "scene": "return",
+    "target": "#return-final-1",
+    "profile": "fold-open",
+    "frame": 527,
+    "settledFrame": 531
+  },
+  {
+    "scene": "return",
+    "target": "#return-final-2",
+    "profile": "rise-lock",
+    "frame": 528,
+    "settledFrame": 532
+  },
+  {
+    "scene": "return",
+    "target": "#return-final-3",
+    "profile": "fold-open",
+    "frame": 529,
+    "settledFrame": 533
+  },
+  {
+    "scene": "return",
+    "target": "#return-final-4",
+    "profile": "rise-lock",
+    "frame": 530,
+    "settledFrame": 534
+  },
+  {
+    "scene": "return",
+    "target": "#return-final-5",
+    "profile": "fold-open",
+    "frame": 531,
+    "settledFrame": 535
+  },
+  {
+    "scene": "append-voice",
+    "target": "#append-voice-this",
+    "profile": "shutter-pull",
+    "frame": 728.0,
+    "settledFrame": 736.0
+  },
+  {
+    "scene": "append-voice",
+    "target": "#append-voice-voiceword .glyph-0",
+    "profile": "glyph-snap",
+    "frame": 744.0,
+    "settledFrame": 750.0
+  },
+  {
+    "scene": "append-voice",
+    "target": "#append-voice-voiceword .glyph-1",
+    "profile": "glyph-snap",
+    "frame": 747.0,
+    "settledFrame": 753.0
+  },
+  {
+    "scene": "append-voice",
+    "target": "#append-voice-toyou",
+    "profile": "shutter-pull",
+    "frame": 803.0,
+    "settledFrame": 811.0
+  },
+  {
+    "scene": "append-voice",
+    "target": "#append-voice-reach",
+    "profile": "rise-lock",
+    "frame": 822.0,
+    "settledFrame": 830.0
+  },
+  {
+    "scene": "append-answer",
+    "target": "#append-answer-heard .glyph-0",
+    "profile": "glyph-snap",
+    "frame": 864.0,
+    "settledFrame": 870.0
+  },
+  {
+    "scene": "append-answer",
+    "target": "#append-answer-heard .glyph-1",
+    "profile": "glyph-snap",
+    "frame": 867.0,
+    "settledFrame": 873.0
+  },
+  {
+    "scene": "append-answer",
+    "target": "#append-answer-heard .glyph-2",
+    "profile": "glyph-snap",
+    "frame": 870.0,
+    "settledFrame": 876.0
+  },
+  {
+    "scene": "append-answer",
+    "target": "#append-answer-heard .glyph-3",
+    "profile": "glyph-snap",
+    "frame": 873.0,
+    "settledFrame": 879.0
+  },
+  {
+    "scene": "append-answer",
+    "target": "#append-answer-truly",
+    "profile": "shutter-pull",
+    "frame": 885.0,
+    "settledFrame": 893.0
+  },
+  {
+    "scene": "append-together",
+    "target": "#append-together-again",
+    "profile": "drop-lock",
+    "frame": 923.0,
+    "settledFrame": 931.0
+  },
+  {
+    "scene": "append-together",
+    "target": "#append-together-met",
+    "profile": "weight-slam",
+    "frame": 925.0,
+    "settledFrame": 933.0
+  },
+  {
+    "scene": "append-together",
+    "target": "#append-together-ending",
+    "profile": "shutter-pull",
+    "frame": 936.0,
+    "settledFrame": 944.0
+  },
+  {
+    "scene": "append-relay-distance",
+    "target": "#append-relay-distance-voice",
+    "profile": "rise-lock",
+    "frame": 1028,
+    "settledFrame": 1036
+  },
+  {
+    "scene": "append-relay-distance",
+    "target": "#append-relay-distance-reach-0",
+    "profile": "shutter-pull",
+    "frame": 1038,
+    "settledFrame": 1046
+  },
+  {
+    "scene": "append-relay-distance",
+    "target": "#append-relay-distance-reach-1",
+    "profile": "fold-open",
+    "frame": 1044,
+    "settledFrame": 1052
+  },
+  {
+    "scene": "append-relay-distance",
+    "target": "#append-relay-distance-reach-2",
+    "profile": "rise-lock",
+    "frame": 1050,
+    "settledFrame": 1058
+  },
+  {
+    "scene": "append-relay-panels",
+    "target": "#append-relay-panels-glyph-0",
+    "profile": "shutter-pull",
+    "frame": 1093,
+    "settledFrame": 1101
+  },
+  {
+    "scene": "append-relay-panels",
+    "target": "#append-relay-panels-glyph-1",
+    "profile": "fold-open",
+    "frame": 1101,
+    "settledFrame": 1109
+  },
+  {
+    "scene": "append-relay-panels",
+    "target": "#append-relay-panels-glyph-2",
+    "profile": "drop-lock",
+    "frame": 1109,
+    "settledFrame": 1117
+  },
+  {
+    "scene": "append-relay-journey",
+    "target": "#append-relay-journey-far-phrase",
+    "profile": "rise-lock",
+    "frame": 1210,
+    "settledFrame": 1218
+  },
+  {
+    "scene": "append-relay-journey",
+    "target": "#append-relay-journey-toward-you",
+    "profile": "shutter-pull",
+    "frame": 1277,
+    "settledFrame": 1285
+  },
+  {
+    "scene": "append-relay-journey",
+    "target": "#append-relay-journey-arrived",
+    "profile": "rise-lock",
+    "frame": 1368,
+    "settledFrame": 1376
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "#append-relay-reply-reply-0",
+    "profile": "side-strike",
+    "frame": 1390,
+    "settledFrame": 1398
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "#append-relay-reply-reply-1",
+    "profile": "side-strike",
+    "frame": 1393,
+    "settledFrame": 1401
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "#append-relay-reply-reply-2",
+    "profile": "side-strike",
+    "frame": 1396,
+    "settledFrame": 1404
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "#append-relay-reply-reply-3",
+    "profile": "side-strike",
+    "frame": 1399,
+    "settledFrame": 1407
+  },
+  {
+    "scene": "append-relay-reply",
+    "target": "#append-relay-reply-reply-yo",
+    "profile": "stamp",
+    "frame": 1402,
+    "settledFrame": 1410
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "#append-finale-answer-voice-key",
+    "profile": "rise-lock",
+    "frame": 1488,
+    "settledFrame": 1496
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "#append-finale-answer-here-key",
+    "profile": "rise-lock",
+    "frame": 1520,
+    "settledFrame": 1528
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "#append-finale-answer-answer-glyph-0",
+    "profile": "weight-slam",
+    "frame": 1589,
+    "settledFrame": 1594
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "#append-finale-answer-answer-glyph-1",
+    "profile": "weight-slam",
+    "frame": 1591,
+    "settledFrame": 1596
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "#append-finale-answer-answer-glyph-2",
+    "profile": "weight-slam",
+    "frame": 1593,
+    "settledFrame": 1598
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "#append-finale-answer-answer-glyph-3",
+    "profile": "weight-slam",
+    "frame": 1595,
+    "settledFrame": 1600
+  },
+  {
+    "scene": "append-finale-answer",
+    "target": "#append-finale-answer-answer-glyph-4",
+    "profile": "weight-slam",
+    "frame": 1597,
+    "settledFrame": 1602
+  },
+  {
+    "scene": "append-finale-reunion",
+    "target": "#append-finale-reunion-promise",
+    "profile": "rise-lock",
+    "frame": 1678,
+    "settledFrame": 1686
+  },
+  {
+    "scene": "append-finale-title",
+    "target": "#append-finale-title-bgm",
+    "profile": "credit-lift",
+    "frame": 1793,
+    "settledFrame": 1801
+  },
+  {
+    "scene": "append-finale-title",
+    "target": "#append-finale-title-vocal",
+    "profile": "credit-lift",
+    "frame": 1799,
+    "settledFrame": 1807
+  },
+  {
+    "scene": "append-finale-title",
+    "target": "#append-finale-title-music",
+    "profile": "credit-lift",
+    "frame": 1804,
+    "settledFrame": 1812
+  },
+  {
+    "scene": "append-finale-title",
+    "target": "#append-finale-title-fancredit",
+    "profile": "credit-lift",
+    "frame": 1808,
+    "settledFrame": 1816
+  }
+]
