@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "scope": "local clean Git clone; no GitHub operation; existing pinned build environment used for Python",
+  "steps": [
+    {
+      "step": "clean install",
+      "exit_code": 0
+    },
+    {
+      "step": "repository audit",
+      "exit_code": 0
+    },
+    {
+      "step": "python syntax",
+      "exit_code": 0
+    },
+    {
+      "step": "rebuild",
+      "exit_code": 0
+    },
+    {
+      "step": "audit after rebuild",
+      "exit_code": 0
+    },
+    {
+      "step": "repeat rebuild byte stability",
+      "passed": true,
+      "pages": 19
+    },
+    {
+      "step": "unincorporated Studio edit protection",
+      "passed": true
+    },
+    {
+      "step": "private assets absent from clean clone",
+      "passed": true
+    }
+  ]
+}
