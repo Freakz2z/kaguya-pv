@@ -1,296 +1,252 @@
 [
   {
-    "path": "assets/art/append-v08/duo-virtual.png",
-    "width": 1536,
-    "height": 1024,
-    "sha256": "883fc596cdd58502490b5c21de3c3a3b49a8571d7883a673356ce4eb704c10af",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/append-v08/iroha-virtual.png",
-    "width": 1024,
-    "height": 1536,
-    "sha256": "39a94d2ebe3bbc1f88ac9ac70598bf08680573d1940ba30090feb449131dd399",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/append-v08/kaguya-response.png",
-    "width": 1024,
-    "height": 1536,
-    "sha256": "78c4bc07d2341c6186be316d3ec5caf7cc07a7ccc55e54661e5131e9f3ed5c40",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
     "path": "assets/art/ending-v23/official-logo.png",
     "width": 1524,
     "height": 372,
     "sha256": "611f3d28f6f8fa949aa48dc2d9bb6203f0b5164204193a273e6a0daafe576c49",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/ending-v23/reunion.png",
-    "width": 1536,
-    "height": 1024,
-    "sha256": "bf766e50b2e025639e294277fa35ddfc3bb4b723115dbca04f988e4bc9fd5629",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/ending-v23/official-logo.png",
+    "kind": "original-work-logo",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/ending-v23/sketch-logo.png",
     "width": 2172,
     "height": 724,
     "sha256": "cf59680eeef64133c51f610e779c42849c2595d882ed08ecbeb93e2114690f33",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/ending-v23/sketch-logo.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/ending-v24/concert-trio.png",
     "width": 1536,
     "height": 1024,
     "sha256": "a7d502711ff910ecb0a45fe0e99926f992440366bc3a9437bf4db11cfa48de72",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/ending-v24/hand-poses.png",
-    "width": 2172,
-    "height": 724,
-    "sha256": "b3c00a22211f7a7b8a1fc8511b0aaad14c114363247d4850d34c8b8302f0640a",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/ending-v24/concert-trio.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/ending-v24/virtual-duo-tiptoe-v4.png",
     "width": 1536,
     "height": 1024,
     "sha256": "96a70481e2654224d5cefde0123f554047582e6e94d1746a6f9b7a3e363e23ef",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/ending-v25/hand-keys-final.png",
-    "width": 1536,
-    "height": 1024,
-    "sha256": "aefb2b84eeebe0d48fcc8e53e4e1614d0ad8c892bce11504877571beb582733b",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/ending-v24/virtual-duo-tiptoe-v4.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/ending-v28/hand-bridges.png",
     "width": 1448,
     "height": 1086,
     "sha256": "f809b9e7806df2c3cdb69ffe05525a7099565bbcdbc3e3021cb7e73aab8a6285",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/ending-v28/hand-bridges.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/ending-v28/hand-sequence-12.png",
     "width": 1448,
     "height": 1086,
     "sha256": "6c5f8b579bbc42b5d908eb5550676d9966e33f367c68cbc4ebccfed343973af3",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/ending-v28/hand-sequence-12.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/iroha-away.png",
     "width": 1122,
     "height": 1402,
     "sha256": "ec7b1d4d6c173f1900ca79922415e0ce6c438abd66b7bc7a6bb97fa7be77b1df",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/iroha-away.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/kaguya-away-reference-v3.png",
     "width": 1254,
     "height": 1254,
     "sha256": "17a58dd303187272c104d3316b28a11af57e88ad7549143b50183e9375a9d406",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/polish-v09/duo-virtual-official.png",
-    "width": 1536,
-    "height": 1024,
-    "sha256": "9863cd84a8104411ebfb56062f897dfd7d73624b2d5e2a5287773cc3b5899c95",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/polish-v09/iroha-virtual-ink.png",
-    "width": 1024,
-    "height": 1536,
-    "sha256": "a68d421ad526b583502b8cec62a359453cb5e9bb91df3f48d769b92306f68cab",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/polish-v09/kaguya-response-official.png",
-    "width": 1024,
-    "height": 1536,
-    "sha256": "76968cc11c182502904f067276ae3149d72506224830a1af2369782cc3d15a88",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/relay-v14/previous-hold.png",
-    "width": 1920,
-    "height": 1080,
-    "sha256": "87d144237aae400ab4cceeb2d7312fc9828331bb9173bee0b6cc1b090814745d",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/kaguya-away-reference-v3.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/relay-v15/iroha-pajama-closed.png",
     "width": 1199,
     "height": 1312,
     "sha256": "f0f01d2387d960b7d34f4804080c321c40f76f0353bb22428f8fab6ca6be6677",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/relay-v15/iroha-pajama-closed.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/relay-v15/iroha-pajama-open.png",
     "width": 1199,
     "height": 1312,
     "sha256": "0a46ca8ed344e72a297a0fdc47352a52806cc54d5bc36c21e2c8f713b9a58419",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/relay-v15/kaguya-muted.png",
-    "width": 1245,
-    "height": 1263,
-    "sha256": "d9a6c346adf0ceb05c24a8ceba2413ddf1eeaf62cdcbd2b1adae2fcccfaabbd4",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/relay-v15/kaguya-robe-muted.png",
-    "width": 1246,
-    "height": 1263,
-    "sha256": "ebc8c8abd7319ec0e2c427ce4b4292d843c99aa832bb93af3571eedb06357364",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/relay-v15/kaguya-robe-starry.png",
-    "width": 1246,
-    "height": 1263,
-    "sha256": "ac37cf1f31a4336a08244a5d23cc15cf764e0c4734b919a6a48b1be7505ef68b",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/relay-v15/iroha-pajama-open.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/relay-v15/kaguya-robe-working.png",
     "width": 1244,
     "height": 1264,
     "sha256": "d1de5067cd02c2233be1675c01e1084e6753070b9ac91f2ece903d3385b7af93",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/relay-v15/kaguya-starry.png",
-    "width": 1246,
-    "height": 1263,
-    "sha256": "350812b3b4e98be4aac1ef48fd9c840d8f46d6f36d82e275a1768967bdaec1ce",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/relay-v15/kaguya-robe-working.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/relay-v17/flat-oil.png",
     "width": 1672,
     "height": 941,
     "sha256": "c655bf92dba9425bdf85259090d93cc6124247baf3185eda533a83e4902e6398",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/relay-v17/flat-oil.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/relay-v17/launch-oil.png",
     "width": 1672,
     "height": 941,
     "sha256": "e912847bc634f43dc8cf164dc2a04076487aa83ad0d56a8f07a38be43cffcedf",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/relay-v17/launch-oil.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/relay-v17/moon-oil.png",
     "width": 1672,
     "height": 941,
     "sha256": "f9039d3cf020b52e36a21d5fc0502c90b7090e1e1a49c1c9192b9dcbe862734b",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/relay-v17/reply-oil.png",
-    "width": 1672,
-    "height": 941,
-    "sha256": "87705c960fca633cc2aa5be837015a4de9eb34a0bb0a921f19fee96f4ad8beff",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/relay-v17/singing-oil.png",
-    "width": 1672,
-    "height": 941,
-    "sha256": "ef228ea89ef068475adfde37538ff16aad06ee681b1387e33b13483fc5056284",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/relay-v17/moon-oil.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/relay-v17/spirit-oil.png",
     "width": 1672,
     "height": 941,
     "sha256": "6ccf74ce012b7784c09bc9721499b8cb2f2dd49f58442524fe6f4c9fe6bfab8b",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/relay-v17/spirit-oil.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/reunion-corrected.png",
     "width": 1476,
     "height": 1065,
     "sha256": "1fa44b5052a1b324af90bf2a80d20116ce48345bc2ea9a41ae322438665212e8",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/reunion-corrected.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/revision-v19/duo-black-top.png",
     "width": 1476,
     "height": 1065,
     "sha256": "4c6fdd00f67eabd844093cc4a24ac7c449ffb88485de028125d30304145e71e5",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/revision-v19/duo-black-top.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/revision-v19/kaguya-black-top.png",
     "width": 1254,
     "height": 1254,
     "sha256": "3e2285e7d317f2930e599a9cd0fd3c4d1ffa6cce1c25b43fa3c25e8e7fc7e4d3",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/revision-v19/kaguya-bust-joy.png",
-    "width": 1246,
-    "height": 1263,
-    "sha256": "1f090ba3ccd5035a7676a7fd052e9a6f74c615a5ca84a11c70467c51d5250c2b",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/revision-v19/kaguya-bust-neutral.png",
-    "width": 1246,
-    "height": 1263,
-    "sha256": "d769b2b42fb8152fb0beec4c812117a17191b67a8c2e2bb7334c3549a3306830",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/revision-v19/kaguya-black-top.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/revision-v22/pancake-memory.png",
     "width": 1536,
     "height": 1024,
     "sha256": "aed165beede9bc3e7d4325f38605a3ca59166437669aaa3903472d1241725566",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/revision-v22/pancake-memory.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/revision-v30/kaguya-desk-joy.png",
     "width": 1244,
     "height": 1265,
     "sha256": "77df6b6923c5185515fd719ac95eb432762228c21624d294fbfe65287cf71200",
-    "distribution": "excluded; demo generated locally"
-  },
-  {
-    "path": "assets/art/style-v10/duo-virtual-print.png",
-    "width": 1536,
-    "height": 1024,
-    "sha256": "5aebd81e5d13f34eaf4a96de0ed73f60e28e2ed55f32b747b5903172975d05dd",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/revision-v30/kaguya-desk-joy.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/style-v10/iroha-virtual-print.png",
     "width": 1024,
     "height": 1536,
     "sha256": "b2802c66de1ca3331f10d5fab94cc11b035d852b5b5a1244ac0dbb67acba0443",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/style-v10/iroha-virtual-print.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/style-v10/kaguya-response-print.png",
     "width": 1024,
     "height": 1536,
     "sha256": "7e890fca5583b6c7367f648dcbcb01681828e0a4bb7b4ab0302b9d8701f0174c",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/style-v10/kaguya-response-print.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
   },
   {
     "path": "assets/art/yachiyo-wait-reference-v3.png",
     "width": 1254,
     "height": 1254,
     "sha256": "5a8a9137fdc7b4b427722747c87c36acec09784b479c6296442fc5fee66e1a78",
-    "distribution": "excluded; demo generated locally"
+    "distribution": "included; author-authorized visual asset",
+    "source": "assets/art/yachiyo-wait-reference-v3.png",
+    "kind": "pv-visual",
+    "license": "Separate asset notice; not covered by MIT"
+  },
+  {
+    "path": "assets/covers/cover-16x9.png",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "4275f385e315d7b6755d68a7ba1f122a0c654d56861b20ce0eef3be00002ea15",
+    "distribution": "included; author-authorized visual asset",
+    "source": "交付/2026-10-16/封面_粗线条简洁版_16比9.png",
+    "kind": "cover",
+    "license": "Separate asset notice; not covered by MIT"
+  },
+  {
+    "path": "assets/covers/cover-4x3.png",
+    "width": 1600,
+    "height": 1200,
+    "sha256": "3919c2ee0109c4890cd1257da85737572a9bd02ee760fc7b42dcdab6a7defb1a",
+    "distribution": "included; author-authorized visual asset",
+    "source": "交付/2026-10-16/封面_粗线条简洁版_4比3.png",
+    "kind": "cover",
+    "license": "Separate asset notice; not covered by MIT"
   }
 ]

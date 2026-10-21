@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/readme/hero.svg" width="100%" alt="星降る海：62.2 秒二维手书 PV 源码；色条展示实际工程的 16 镜头时间线">
+  <img src="assets/covers/cover-16x9.png" width="100%" alt="星降る海：八千代、彩叶与辉夜的粗线条封面，文字为让歌声抵达你身边">
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 把一部《超かぐや姫！》同人 PV 的制作过程，整理成可以运行、拆解和修改的动画工程：**文字如何入场，画面如何交接，音符如何穿过场景，鼓点如何带动整个版面。**
 
-最终工程为 **62.2 秒 / 1920×1080 / 30 fps**。HyperFrames 组织时间线，GSAP 驱动动画，Canvas 绘制烟花、泡泡与音符拖尾，Python 生成分层镜头与音乐落点。首页图中的色条按实际镜头的起止时间绘制。
+最终工程为 **62.2 秒 / 1920×1080 / 30 fps**。HyperFrames 组织时间线，GSAP 驱动动画，Canvas 绘制烟花、泡泡与音符拖尾，Python 生成分层镜头与音乐落点。
 
-> **你会看到什么**：开源版提供动画代码与可运行演示，默认使用几何占位图、静音音轨、示例字幕和系统字体。人物画稿、原曲、官方图像与完整歌词不随仓库分发，因此默认预览与成片的美术和听感不同。持有原工程者可[在本地还原完整预览](#本地还原完整预览)。
+> **你会看到什么**：作者已授权公开最终工程所需的 **23 张画面素材与 2 张封面**，默认预览会直接显示人物、背景和手势图。**仓库不包含《星降る海》原曲，也不会自动下载音乐**；音轨仍为本地生成的静音 WAV，字幕保留示例文字，部分字体使用系统回退。素材说明见 [ASSETS.md](docs/ASSETS.md)，[4:3 封面](assets/covers/cover-4x3.png)也可单独查看。
 
 ## 先跑起来
 
@@ -30,7 +30,7 @@ npm run dev
 
 打开命令输出的 HyperFrames Studio 地址，即可播放、拖动时间轴，查看独立镜头与图层。默认演示没有音乐，这是预期行为。
 
-`npm ci` 自动生成 42 张同尺寸占位图、覆盖原音乐源偏移的 240 秒静音 WAV，并从锁文件指定的依赖复制 GSAP。生成物都在 Git 忽略目录。首次预览通过 `npx` 获取固定版本的 **HyperFrames 0.8.162**；GSAP 固定为 **3.14.2**，需要联网安装。
+`npm ci` 先核验 25 张随仓库提供的图像，再生成覆盖原音乐源偏移的 240 秒静音 WAV，并从锁文件指定的依赖复制 GSAP。静音 WAV 与运行库在 Git 忽略目录。首次预览通过 `npx` 获取固定版本的 **HyperFrames 0.8.162**；GSAP 固定为 **3.14.2**，需要联网安装。
 
 ## 可以从这里学到什么
 
@@ -45,6 +45,11 @@ npm run dev
 
 这是完成制作后的具体作品工程，适合参考和拆解，没有抽象成通用动画编辑器。
 
+<details>
+<summary>查看实际镜头时间线</summary>
+<img src="assets/readme/hero.svg" width="100%" alt="按实际镜头起止时间绘制的 62.2 秒、16 镜头时间线">
+</details>
+
 ## 工程怎么组织
 
 ```text
@@ -55,6 +60,8 @@ source/revision-*/         最终工程仍在使用的演出模块
 config/                    素材尺寸与原版快照摘要
 scripts/                   安装、仓库审计、本地还原工具
 assets/readme/             首页静态 SVG
+assets/art/                已公开的角色、背景、手势与道具图
+assets/covers/             16:9 与 4:3 封面
 assets/fonts/              附 OFL 许可的中文字体子集
 docs/                      架构、素材边界、验证和发布记录
 ```
@@ -82,7 +89,7 @@ Windows PowerShell 使用 `.\.venv\Scripts\Activate.ps1` 激活环境；也可�
 | 命令 | 用途 |
 | --- | --- |
 | `npm run dev` | 打开前台预览 |
-| `npm run setup` | 补齐缺失的演示资源，保留已有占位图 |
+| `npm run setup` | 核验画面素材，补齐本地静音音轨与运行库 |
 | `npm run build` | 由 Python 重建时间线与镜头 |
 | `npm run check` | HyperFrames 运行、布局、对比度等检查 |
 | `npm run audit:repo` | 检查 Git 跟踪文件与资源依赖 |
@@ -93,9 +100,9 @@ Python 依赖版本见 [requirements-build.txt](source/requirements-build.txt)�
 
 可从一两个镜头开始：替换图像、调整剧情短句、重设音符轨迹，再按自己的音乐重新标注鼓点和字幕。更换音乐后，需要重新听审落点。
 
-图像路径和尺寸见 [config/assets.json](config/assets.json)，占位图生成逻辑见 [scripts/setup.mjs](scripts/setup.mjs)。音乐轨道保留了原工程 **169.1 秒**的源偏移和画面内 **20.5–23.1 秒**的停顿；更换曲目时一起调整源偏移、停顿与结束时间。
+图像路径、尺寸和摘要见 [config/assets.json](config/assets.json)。替换图像后同步该清单的尺寸与 SHA-256；安装脚本会检查素材是否完整。音乐轨道保留了原工程 **169.1 秒**的源偏移和画面内 **20.5–23.1 秒**的停顿；更换曲目时一起调整源偏移、停顿与结束时间。
 
-请使用自己的美术、音乐、字体，或有明确使用条件的资源。生成的占位图、音频、运行库和私有素材目录不进入 Git。
+请使用自己的美术、音乐、字体，或有明确使用条件的资源。原曲和其他录音、视频、运行库与私有预览目录不进入 Git；作者公开的图像按清单管理，未并入代码的 MIT 许可。
 
 ## 本地还原完整预览
 
@@ -115,7 +122,7 @@ npm run dev:private
 - 本地 HyperFrames 检查覆盖 16 个时间采样；运行与布局无错误。字幕轨道较密的维护提醒保留在记录中。
 - GitHub Actions 覆盖安装、仓库审计、Python 编译与构建。检查范围及报告见 [VALIDATION.md](docs/VALIDATION.md)。
 
-这些检查验证工程结构和运行情况。占位版不用于验收人物手势、美术一致性或音乐听感，也未配置逐动作的 motion sidecar 断言。
+这些检查验证工程结构和运行情况。静音预览不能用于验收音乐听感，也未配置逐动作的 motion sidecar 断言。素材公开前的占位版本检查保留为历史记录。
 
 ## 制作与致谢
 
@@ -129,6 +136,6 @@ npm run dev:private
 
 自有代码采用 [MIT License](LICENSE)。HyperFrames 改编部分、GSAP 与中文字体按各自许可执行，详见 [NOTICE.md](NOTICE.md) 和 [LICENSES/](LICENSES/)。
 
-代码许可不授予原作角色、音乐、歌词、商标或官方画面的权利。未附许可的用户烟花模板没有进入公开源码，开源版使用独立演示实现。素材明细见 [ASSETS.md](docs/ASSETS.md)。
+代码许可不授予原作角色、音乐、歌词、商标或官方画面的权利。此次公开图像遵循单独的[图像声明](assets/NOTICE.md)，不按 MIT 再授权。未附许可的用户烟花模板没有进入公开源码，开源版使用独立演示实现。素材明细见 [ASSETS.md](docs/ASSETS.md)。
 
 项目已结束制作，作为源码与制作记录保留。问题反馈和修改建议请附镜头编号、时间点、复现步骤，参见 [CONTRIBUTING.md](CONTRIBUTING.md)。
