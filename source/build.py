@@ -1,3 +1,6 @@
+import sys
+if sys.version_info < (3, 11):
+ raise SystemExit('Python 3.11+ is required to rebuild this project. Preview with npm run dev needs only Node.js.')
 from pathlib import Path
 import json,math,html,csv,unicodedata,hashlib,argparse
 from PIL import Image

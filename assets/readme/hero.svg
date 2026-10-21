@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">星降る海 · 二维手书动画源码</title>
+  <desc id="desc">纸白、深紫与玫红的粗线条标题，下方按最终工程的真实起止时间绘出16个镜头，涵盖62.2秒。</desc>
+  <rect width="1200" height="400" rx="18" fill="#f5efe7"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Hiragino Sans','PingFang SC',sans-serif" fill="#322438">
+    <text x="66" y="58" font-size="29" font-weight="650" letter-spacing="3">二维手书 · 动画源码</text>
+    <text x="60" y="168" font-size="106" font-weight="900" letter-spacing="7">星降る海</text>
+    <text x="68" y="227" font-size="38" font-weight="600">让歌声抵达你身边。</text>
+    <g id="voice-to-moon" fill="none" stroke="#ac2d53" stroke-width="7" stroke-linecap="round">
+      <path d="M650 180 C750 200 807 91 903 107"/>
+      <path d="M700 177 C775 175 812 133 853 122" stroke="#cbb8d4" stroke-width="5"/>
+    </g>
+    <path d="M1049 54 A73 73 0 1 0 1091 161 A64 64 0 0 1 1049 54Z" fill="#d5ad69" stroke="#322438" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M931 63 L939 82 L959 91 L939 99 L931 119 L922 99 L902 91 L922 82Z" fill="#ac2d53"/>
+    <g id="actual-scene-timeline"><rect x="64.00" y="272" width="58.47" height="16" rx="3" fill="#ac2d53"/><rect x="125.47" y="294" width="48.13" height="16" rx="3" fill="#74449a"/><rect x="176.60" y="272" width="54.45" height="16" rx="3" fill="#d5ad69"/><rect x="234.05" y="294" width="63.64" height="16" rx="3" fill="#322438"/><rect x="300.69" y="272" width="99.26" height="16" rx="3" fill="#ac2d53"/><rect x="402.95" y="294" width="87.20" height="16" rx="3" fill="#74449a"/><rect x="475.34" y="272" width="90.64" height="16" rx="3" fill="#d5ad69"/><rect x="555.76" y="294" width="44.11" height="16" rx="3" fill="#322438"/><rect x="589.66" y="272" width="73.98" height="16" rx="3" fill="#ac2d53"/><rect x="654.58" y="294" width="44.11" height="16" rx="3" fill="#74449a"/><rect x="691.92" y="272" width="42.96" height="16" rx="3" fill="#d5ad69"/><rect x="737.88" y="294" width="136.60" height="16" rx="3" fill="#322438"/><rect x="861.97" y="272" width="66.51" height="16" rx="3" fill="#ac2d53"/><rect x="918.27" y="294" width="88.92" height="16" rx="3" fill="#74449a"/><rect x="1010.19" y="272" width="61.34" height="16" rx="3" fill="#d5ad69"/><rect x="1060.17" y="294" width="72.83" height="16" rx="3" fill="#322438"/></g>
+    <text x="65" y="366" font-size="30" font-weight="700">62.2 秒 ／ 16 个镜头 ／ 逐层可编辑</text>
+  </g>
+</svg>

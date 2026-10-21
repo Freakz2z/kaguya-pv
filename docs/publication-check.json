@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-21",
+  "python_tested": "3.14.7",
+  "python_minimum": "3.11",
+  "fresh_dependency_install": true,
+  "rebuilt_frames": 1866,
+  "duration_seconds": 62.2,
+  "readme_audit": "passed",
+  "hero_preview_widths": [
+    900,
+    360
+  ],
+  "github_markdown_render": "reviewed locally",
+  "browser_check": {
+    "ok": true,
+    "runtime_errors": 0,
+    "layout_errors": 0,
+    "contrast_errors": 0,
+    "lint_warnings": 1,
+    "layout_samples": 16,
+    "motion_assertions_enabled": false
+  },
+  "history_audit": {
+    "commits_checked": 2,
+    "unique_blobs_checked": 74,
+    "findings": []
+  },
+  "note": "Pre-publication local verification; GitHub Actions status is available from the repository workflow."
+}
