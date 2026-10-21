@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-22",
+  "source_commit": "e526acf91ac080407211807576c57b44c337411d",
+  "visual_files": 25,
+  "art_files": 23,
+  "covers": 2,
+  "tracked_audio_video_files": 0,
+  "total_image_bytes": 60759540,
+  "browser_check": {
+    "ok": true,
+    "runtime_errors": 0,
+    "layout_errors": 0,
+    "contrast_errors": 0,
+    "layout_samples": 16,
+    "lint_warnings": 1
+  },
+  "clean_clone_checks": [
+    {
+      "step": "clean install",
+      "passed": true
+    },
+    {
+      "step": "asset and media audit",
+      "passed": true
+    },
+    {
+      "step": "rebuild",
+      "passed": true
+    },
+    {
+      "step": "audit after rebuild",
+      "passed": true
+    },
+    {
+      "step": "25 original-image hashes and silent WAV verified",
+      "passed": true
+    },
+    {
+      "step": "reject synthetic audio payload: _audit-probe.png",
+      "passed": true
+    },
+    {
+      "step": "reject synthetic audio payload: _audit-probe.mp3",
+      "passed": true
+    }
+  ],
+  "audio_policy": "Only locally generated silence; no original recording or other audio/video is tracked."
+}
